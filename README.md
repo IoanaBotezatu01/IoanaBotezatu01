@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ioana</h1>
 <h3 align="center">A passionate student from Romania looking for an internship</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ioanabotezatu01" alt="ioanabotezatu01" /></a> </p>
+
 - 🌱 I’m currently learning **C#,.NET framework**
 
 - 👨‍💻 All of my projects are available at [https://github.com/IoanaBotezatu01](https://github.com/IoanaBotezatu01)
