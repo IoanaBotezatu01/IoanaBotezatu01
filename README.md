@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **ioanabotezatu01@gmail.com**
 
+- 📄 Know about my experiences [https://www.linkedin.com/in/ioana-botezatu-4854a42b9/](https://www.linkedin.com/in/ioana-botezatu-4854a42b9/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/ioana botezatu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ioana botezatu" height="30" width="40" /></a>
