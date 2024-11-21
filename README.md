@@ -21,5 +21,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ioanabotezatu01&show_icons=true&title_color=a28686&bg_color=000000&locale=en&layout=compact" alt="ioanabotezatu01" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dayanababtan&show_icons=true&title_color=a28686&bg_color=000000&locale=en&layout=compact" alt="dayanababtan" /></p>
-
