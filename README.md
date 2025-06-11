@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ioana</h1>
-<h3 align="center">A passionate student from Romania looking for an internship</h3>
 
 - 🌱 I’m currently learning **AI**
 
